@@ -1,3 +1,5 @@
+[Note: This was made in Replit, so some of the files in this repo are related to replit.]
+
 # QR-Code-Generator
 This is a python-based project where you can provide some text or a link and it will convert it into a QR code in image format.
 This is a python-based project where you can provide some text or a link and it will convert it into a QR code in image format. Once the image has been generated, you can see it in the files section and view/download it from there.
