@@ -1,4 +1,4 @@
-[Note: This was made in Replit, so some of the files in this repo are related to replit.]
+[Note: This was made in Replit, so some of the files in this repo are related to replit. You can find this project on Replit [here](https://replit.com/@SnakeByte/QR-Code-Generator?v=1)]
 
 # QR-Code-Generator
 This is a python-based project where you can provide some text or a link and it will convert it into a QR code in image format.
