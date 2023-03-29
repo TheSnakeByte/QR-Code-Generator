@@ -10,7 +10,6 @@ if os.path.exists(".png"):
 # Package imports
 import qrcode
 from qrcode.constants import ERROR_CORRECT_L
-import js2py
 
 qr = qrcode.QRCode(
   version=3,
